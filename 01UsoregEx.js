@@ -1,0 +1,1 @@
+console.log('Usando el objeto REGEX');
